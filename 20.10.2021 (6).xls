@@ -1,0 +1,11 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>EXCELE AKTARMA SİSTEMİ</title>
+</head>
+<body>
+﻿<table border='1'> <th style='background: black' colspan='2'>
+          <font style='color: #8b8b8b'>Arabalar</font></th><tr><th style='background: #FFA500'>Araba Ad</th><th style='background: #FFA500'>Araba Model</th></tr><tr><td>Mercedes</td><td>2021</td></tr></table>
+</body>
+</html>
